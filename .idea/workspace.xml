@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4afd905-c771-40f8-a0be-ae6e1d09103a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app.yaml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloworld.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/helloworld.py" afterPath="$PROJECT_DIR$/helloworld.py" />
     </list>
     <ignored path="test103.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,7 +28,7 @@
       <file leaf-file-name="helloworld.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/helloworld.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="14" selection-start="257" selection-end="257" vertical-scroll-proportion="0.1764706" vertical-offset="0" max-vertical-offset="867">
+            <state line="5" column="53" selection-start="189" selection-end="189" vertical-scroll-proportion="0.09803922" vertical-offset="0" max-vertical-offset="867">
               <folding />
             </state>
           </provider>
@@ -57,8 +56,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/helloworld.py" />
         <option value="$PROJECT_DIR$/app.yaml" />
+        <option value="$PROJECT_DIR$/helloworld.py" />
       </list>
     </option>
   </component>
@@ -123,6 +122,7 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -264,7 +264,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="260" y="20" width="1400" height="1000" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -311,7 +311,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/helloworld.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="14" selection-start="257" selection-end="257" vertical-scroll-proportion="0.1764706" vertical-offset="0" max-vertical-offset="867">
+        <state line="5" column="53" selection-start="189" selection-end="189" vertical-scroll-proportion="0.09803922" vertical-offset="0" max-vertical-offset="867">
           <folding />
         </state>
       </provider>
